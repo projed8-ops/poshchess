@@ -1,0 +1,6 @@
+{
+  "name": "Chess Analyzer",
+  "description": "Premium chess studio for real-time Stockfish cloud database analysis, custom boards setup, and saved games tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
